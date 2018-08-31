@@ -499,7 +499,7 @@
 			</div>
 		</div>
 		<div class="row">
-			<a href="mailto: l.arancibiaf@gmail.com">© devangelmotta AngularJS Dev</a><br>
+			<a href="mailto: devangelmotta@hotmail.com">© devangelmotta AngularJS Dev</a><br>
 			<a class="grey-text text-lighten-4 right" href="#!">Compilación: #<?php echo $versionControll; ?></a><br>
 			<a class="grey-text text-lighten-4 right" href="#!">Modo: <?php echo $modeControll == 'dev' ? 'Desarrollo':'Producción'; ?>
 		</div>
